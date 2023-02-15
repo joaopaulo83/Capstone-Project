@@ -1,2 +1,3 @@
 # Capstone-Project
-Rocket project
+
+Rocket project for Coursera course.
